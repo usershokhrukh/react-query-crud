@@ -1,0 +1,119 @@
+{
+  "todos": [
+    {
+      "id": "12",
+      "title": "Update resume",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "id": "13",
+      "title": "Backup laptop data",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "id": "14",
+      "title": "Organize work desk",
+      "completed": true,
+      "priority": "low"
+    },
+    {
+      "id": "15",
+      "title": "Reply to urgent emails",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "id": "16",
+      "title": "Fix bug in login route",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "id": "17",
+      "title": "Plan weekend getaway",
+      "completed": true,
+      "priority": "medium"
+    },
+    {
+      "id": "18",
+      "title": "Wash the car",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "id": "19",
+      "title": "Cook dinner for friends",
+      "completed": true,
+      "priority": "medium"
+    },
+    {
+      "id": "20",
+      "title": "Review team code changes",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "id": "21",
+      "title": "Go for a 30-minute run",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "id": "22",
+      "title": "Buy birthday gift for sister",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "id": "23",
+      "title": "Clean out the wardrobe",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "id": "24",
+      "title": "Renew car insurance",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "id": "25",
+      "title": "Practice touch typing",
+      "completed": true,
+      "priority": "low"
+    },
+    {
+      "id": "26",
+      "title": "Study data structures",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "id": "27",
+      "title": "Cancel unused subscriptions",
+      "completed": true,
+      "priority": "medium"
+    },
+    {
+      "id": "28",
+      "title": "Take out the trash",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "id": "29",
+      "title": "Meditate for 10 minutes",
+      "completed": true,
+      "priority": "low"
+    },
+    {
+      "id": "30",
+      "title": "Draft blog post draft",
+      "completed": false,
+      "priority": "medium"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
