@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from "react";
 import { useAddTodo } from "../hooks/useAddTodo";
 
-const AddModal = ({modal, loadingSet}) => {
+const AddModal = ({modal, errorSet}) => {
   const {mutate, error} = useAddTodo()
   const [addForm, setAddForm] = useState({
     id: null,
